@@ -9,9 +9,9 @@ Olá, esse foi o bot oficial dos servidores SPACEMC aonde Finish PVP é fundador
 
 **Informações pessoal:**
 </br>
-<a href="https://www.instagram.com/yarkann_">
+<a href="https://www.instagram.com/yarkanmarley">
   <img align="left" alt="Yarkan Traapey" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://discord.gg/alphamine">
+<a href="https://discord.gg/SgJYsFBFhV">
   <img align="left" alt="Yarkan Traapey" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
 </a>
