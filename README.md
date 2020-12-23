@@ -5,7 +5,7 @@ Olá, esse é um projeto de site criado para a empresa citada na qual tive meus 
 
 **Informações do BOT:**
 
-- 👨🏽‍💻 Bot programado/criado em JavaScript;
+- 👨🏽‍💻 Site programado/criado em BACK-END;
 
 **Informações pessoal:**
 </br>
