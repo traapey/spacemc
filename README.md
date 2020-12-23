@@ -1,7 +1,7 @@
-### Hey 👋, esse é o meu projeto para o **SpaceMC** servidor do Finish PVP.
-Olá, esse foi o bot oficial dos servidores SPACEMC aonde Finish PVP é fundador, o mesmo entrou em contato comigo e me chamou para fazer parte na época :rocket: 
+### Hey 👋, esse é o meu projeto para o **SpecterMine** loja de Minecraft.
+Olá, esse é um projeto de site criado para a empresa citada na qual tive meus direitos removido por um dos criadores, então o site atualment está público.
 
-  <img align="right" alt="png" src="https://imgur.com/zskZV3B.png" />
+  <img align="right" alt="png" src="https://imgur.com/TsJxbP2.png" />
 
 **Informações do BOT:**
 
